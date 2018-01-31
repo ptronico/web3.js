@@ -9,7 +9,7 @@
   ],
   "moduleType": "global",
   "dependencies": {
-    "bn.js": ">=4.11.6"
+    "bn.js": "https://github.com/indutny/bn.js/releases/tag/v4.11.8"
   },
   "repository": {
     "type": "git",
